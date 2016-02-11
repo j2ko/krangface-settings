@@ -1,9 +1,10 @@
 {
   "name": "config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/pebble-hacks/slate-watchface-template",
+  "directory": "krangface-settings/bower_components",
   "authors": [
-    "Kirby <kirby@pebble.com>"
+    "j2ko <j2ko@pebble.com>"
   ],
   "license": "MIT",
   "ignore": [
